@@ -1,0 +1,15 @@
+[{"type": "CUSTOMER", "verb": "NEW", "key": "96f55c7d8f42", "event_time": "2017-01-06T12:46:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "AK"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815502f", "event_time": "2017-01-06T12:45:52.041Z", "customer_id": "96f55c7d8f42", "tags": {"some key": "some value"}},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d9f", "event_time": "2017-01-06T12:47:12.344Z", "customer_id": "96f55c7d8f42", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a43", "event_time": "2017-01-06T12:55:55.555Z", "customer_id": "96f55c7d8f42", "total_amount": "12.34 USD"}
+{"type": "CUSTOMER", "verb": "UPDATE", "key": "96f55c7d8f42", "event_time": "2017-02-08T13:22:41.000Z", "last_name": "Smith", "adr_city": "TK", "adr_state": "S"}
+{"type": "SITE_VISIT", "verb": "NEW", "key": "aeafdf15502f", "event_time": "2017-03-01T8:3:1.034Z", "customer_id": "96f55c7d8f42", "tags": {"some key": "some value"}}
+{"type": "SITE_VISIT", "verb": "NEW", "key": "Fdgdfg8adfad", "event_time": "2017-02-06T22:32:32.231Z", "customer_id": "96f55c7d8f42", "tags": {"some key": "some value"}}
+{"type": "ORDER", "verb": "NEW", "key": "dfdafadf43", "event_time": "2017-02-01T23:22:33.5325Z", "customer_id": "96f55c7d8f42", "total_amount": "122.32 USD"}
+{"type": "ORDER", "verb": "NEW", "key": "edd5431a43", "event_time": "2017-01-28T14:33:11.345Z", "customer_id": "96f55c7d8f42", "total_amount": "5.54 USD"}
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d9f", "event_time": "2017-01-06T12:47:12.344Z", "customer_id": "96f55c7d8f42", "camera_make": "Canon", "camera_model": "EOS 80D"}
+{"type": "CUSTOMER", "verb": "NEW", "key": "fdfdsfafaf", "event_time": "2017-3-01T23:33:43.333Z", "last_name": "HOOP", "adr_city": "DDD", "adr_state": "KKK"}
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815502f", "event_time": "2017-03-01T24:00:00.00Z", "customer_id": "fdfdsfafaf", "tags": {"some key": "some value"}}
+{"type": "SITE_VISIT", "verb": "NEW", "key": "Fdfsdsd02f", "event_time": "2017-03-02T05:23:32.232Z", "customer_id": "fdfdsfafaf", "tags": {"some key": "some value"}}
+{"type": "ORDER", "verb": "NEW", "key": "Fdfdafg4ss3", "event_time": "2017-03-2T14:33:11.345Z", "customer_id": "fdfdsfafaf", "total_amount": "125.34 USD"}] 
+
